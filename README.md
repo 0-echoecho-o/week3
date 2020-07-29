@@ -1,2 +1,1 @@
-# week3
-prep
+week3 prep
